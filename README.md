@@ -1,0 +1,2 @@
+# gpt
+learning from karpathy
